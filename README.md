@@ -15,6 +15,12 @@ A real-time perception-to-autonomy pipeline combining:
 
 <img width="2048" height="580" alt="image" src="https://github.com/user-attachments/assets/05cd19d1-d8f0-4ab9-ab2f-7716d3221088" />
 
+## 🎥 Visualization Dashboard
+Panel	Description
+Original	Raw camera input
+Segmentation	SegFormer output
+Depth	MiDaS relative depth
+Autonomy	Risk + decision overlay
 
 ---
 
@@ -56,15 +62,7 @@ JSON (for localization + motion)
   }
 }
 
----
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/sensor-agnostic-autonomy-stack.git
-cd sensor-agnostic-autonomy-stack
-
-pip install -r requirements.txt
+ 
 
  
 
