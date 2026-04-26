@@ -44,6 +44,7 @@ This project implements a **sensor-agnostic perception pipeline** where any inpu
 ---
 
 ## 📊 Output
+```bash
 JSON (for localization + motion)
 {
   "timestamp": 1777142827.42,
