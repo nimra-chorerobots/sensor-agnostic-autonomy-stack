@@ -43,15 +43,6 @@ This project implements a **sensor-agnostic perception pipeline** where any inpu
 
 ---
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/sensor-agnostic-autonomy-stack.git
-cd sensor-agnostic-autonomy-stack
-
-pip install -r requirements.txt
-
----
 ## 📊 Output
 JSON (for localization + motion)
 {
@@ -64,4 +55,15 @@ JSON (for localization + motion)
   }
 }
 
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/sensor-agnostic-autonomy-stack.git
+cd sensor-agnostic-autonomy-stack
+
+pip install -r requirements.txt
+
+ 
 
