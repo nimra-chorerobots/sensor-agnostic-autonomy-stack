@@ -16,11 +16,8 @@ A real-time perception-to-autonomy pipeline combining:
 <img width="2048" height="580" alt="image" src="https://github.com/user-attachments/assets/05cd19d1-d8f0-4ab9-ab2f-7716d3221088" />
 
 ## 🎥 Visualization Dashboard
-Panel	Description
-Original	Raw camera input
-Segmentation	SegFormer output
-Depth	MiDaS relative depth
-Autonomy	Risk + decision overlay
+<img width="996" height="382" alt="image" src="https://github.com/user-attachments/assets/f40ef3fe-6115-49b6-a539-9e6e39e8c010" />
+
 
 ---
 
