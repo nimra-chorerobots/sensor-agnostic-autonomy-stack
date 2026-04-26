@@ -39,13 +39,6 @@ This project implements a **sensor-agnostic perception pipeline** where any inpu
 
 ---
 
-## 📁 Project Structure
-
-<img width="509" height="824" alt="image" src="https://github.com/user-attachments/assets/94ef61a5-1f9f-45dc-b3db-7ca9b566d42b" />
-
-
----
-
 ## 📊 Output
 ```bash
 JSON (for localization + motion)
